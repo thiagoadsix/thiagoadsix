@@ -1,15 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=thiagoadsix&color=006bed)
 
-<h3> 👨‍💻 &nbsp; Sobre mim </h3>
+<h3> 👨‍💻 &nbsp; About me </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado em **Análise e Desenvolvimento de Sistemas** no <a href="https://www.uniceub.br/">UniCEUB</a>.
-- 💼 &nbsp; Trabalhando como **Software Engineer** na <a href="https://contasimples.com/">Conta Simples</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TDD, Clean Architecture, SOLID e Front-End**.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🎓 &nbsp; Graduated in **Systems Analysis and Development** at <a href="https://www.uniceub.br/">UniCEUB</a>.
+- 💼 &nbsp; Working as a **Software Engineer** on <a href="https://contasimples.com/">Conta Simples</a>
+- 🌱 &nbsp; Learing more about **TDD, Clean Architecture, SOLID e Front-End**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Frameworks, Libraries and many others tools**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
@@ -34,7 +34,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
 
-**Utilidades**
+**Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
@@ -45,7 +45,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Tools to Develop**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
@@ -58,7 +58,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where you can find me: </h3> 
 
 [![Linkedin: Thiago Andrade Silva](https://img.shields.io/badge/-thiagoandradesilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-andrade-silva/)](https://www.linkedin.com/in/thiago-andrade-silva/)
 [![Gmail Badge](https://img.shields.io/badge/-thiago.adsix@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.adsix@gmail.com)](mailto:thiago.adsix@gmail.com)
