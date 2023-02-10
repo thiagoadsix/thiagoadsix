@@ -7,8 +7,6 @@
 - 💼 &nbsp; Working as a **Software Engineer** on <a href="https://contasimples.com/">Conta Simples</a>
 - 🌱 &nbsp; Learing more about **TDD, Clean Architecture, SOLID e Front-End**.
 
-<br/>
-
 <h3> :earth_americas: &nbsp;Where you can find me: </h3> 
 
 [![Linkedin: Thiago Andrade Silva](https://img.shields.io/badge/-thiagoandradesilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-andrade-silva/)](https://www.linkedin.com/in/thiago-andrade-silva/)
