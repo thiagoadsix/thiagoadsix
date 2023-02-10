@@ -7,10 +7,6 @@
 - 💼 &nbsp; Working as a **Software Engineer** on <a href="https://contasimples.com/">Conta Simples</a>
 - 🌱 &nbsp; Learing more about **TDD, Clean Architecture, SOLID e Front-End**.
 
-<a href="https://github.com/thiagoadsix">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoadsix&theme=graywhite&show_icons=true&count_private=true" />
-</a>
-
 <br/>
 
 <h3> :earth_americas: &nbsp;Where you can find me: </h3> 
