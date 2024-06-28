@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in **Systems Analysis and Development** at <a href="https://www.uniceub.br/">UniCEUB</a>.
 - 💼 &nbsp; Working as a **Software Engineer** on <a href="https://contasimples.com/">Conta Simples</a>
-- 🌱 &nbsp; Learing more about **TDD, Clean Architecture, SOLID e Front-End**.
+- 🌱 &nbsp; Learing more about **TDD, Clean Architecture, SOLID**.
 
 <h3> :earth_americas: &nbsp;Where you can find me: </h3> 
 
