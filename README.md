@@ -1,12 +1,19 @@
-![](https://komarev.com/ghpvc/?username=thiagoadsix&color=006bed)
+![Profile views](https://komarev.com/ghpvc/?username=thiagoadsix&color=006bed)
 
-<h3> 👨‍💻 &nbsp; About me </h3>
+### 👋🏻  Hey, I’m Thiago
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Graduated in **Systems Analysis and Development** at <a href="https://www.uniceub.br/">UniCEUB</a>.
-- 💼 &nbsp; Working as a **Software Engineer** on <a href="https://contasimples.com/">Conta Simples</a>
+- **Senior Software Engineer** ­— 5 + yrs building high-availability, serverless backends  
+- **Domain:** FinTech, real-time payments, event-driven micro-services  
+- **Stack:** TypeScript · Node.js · Go · AWS · Kafka · GraphQL · DynamoDB  
+- **Side-project:** [Keezmo](https://keezmo.com) — AI-generated flashcards for smarter study  
+- **Writing:** Sharing backend tips & infra rants on [Substack](https://substack.com/@thiagoadsix)  
+- **Fun fact:** 🤎 MPB · ☕ coffee-hater
 
-<h3> :earth_americas: &nbsp;Where you can find me: </h3> 
-
-[![Linkedin: Thiago Andrade Silva](https://img.shields.io/badge/-thiagoandradesilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-andrade-silva/)](https://www.linkedin.com/in/thiago-andrade-silva/)
-[![Gmail Badge](https://img.shields.io/badge/-thiago.adsix@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thiago.adsix@gmail.com)](mailto:thiago.adsix@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/thiago-andrade-silva/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:thiago.adsix@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white">
+  </a>
+</p>
